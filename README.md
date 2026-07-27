@@ -1,4 +1,4 @@
-# GitHub Desktop Learning
+# GitHub Desktop - Teaching beginners starting to learn Git and Python.
 
 This repository is for teaching GitHub Desktop and Git workflows to beginners learning Python and GitHub Desktop.
 
