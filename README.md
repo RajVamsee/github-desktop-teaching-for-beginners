@@ -13,5 +13,5 @@ This repository is for teaching GitHub Desktop and Git workflows to beginners le
 
 - Git
 - GitHub Desktop
-- VS Code
 - Python
+- VS Code
