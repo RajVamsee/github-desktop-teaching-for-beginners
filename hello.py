@@ -1,6 +1,6 @@
 def main():
-    print("Hello, Git!")
-    print("This is my first GitHub Desktop project.")
+    print("Hello learners!")
+    print("This is a simple beginner tutorial for anybody trying to get their hands on with Github Desktop and Python basics. Happy to help.")
 
 
 if __name__ == "__main__":
